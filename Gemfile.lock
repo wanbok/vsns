@@ -16,7 +16,7 @@ GIT
 
 GIT
   remote: git://github.com/wanbok/mad_chatter.git
-  revision: 96e7f09768d8a4e1aa689f46245df1a88f38a3c9
+  revision: 3a6576b61d8bec21388ea241206a19b6875b3793
   specs:
     mad_chatter (1.0.0)
       backbone-on-rails
