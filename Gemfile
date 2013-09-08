@@ -72,6 +72,9 @@ gem 'acts-as-taggable-on'
 # Replace gem 'tagsinput-rails' with the following one for Bootstrap
 gem 'bootstrap-tagsinput-rails'
 
+# Chatting
+gem 'mad_chatter', github: 'wanbok/mad_chatter'
+
 group :development do
 
   # Use sqlite3 as the database for Active Record

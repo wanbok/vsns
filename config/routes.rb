@@ -29,4 +29,5 @@ BigPie::Application.routes.draw do
     end
   end
 
+  mount MadChatter::RailsEngine => "/chat"
 end
